@@ -12,7 +12,7 @@ I'm a mechatronics engineering student who is passionate about Embedded Software
 
 - 🎓 &nbsp; I’m currently a senior student at Mansoura University.
 - 🌱 &nbsp; Learning more about C and Embedded C Programming , Microcontrollers and Embedded Sofware . 
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/ahmed-el-gendy) [Gmail](https://www.elgendyahmed955@gmail.com)
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/ahmed-el-gendy-763560220/) [Gmail](https://www.elgendyahmed955@gmail.com)
 
 <br/>
 
